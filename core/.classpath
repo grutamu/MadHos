@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.1/a1fd092a4cdeb029ddb205805143a26545de1e6b/gdx-1.7.1-sources.jar" kind="lib" path="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.1/2179cc613447c297623a4a6d2ba6692c3aaff804/gdx-1.7.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.7.1/13f2241b3ab821dbad64292ad7180d5d14a32ed1/gdx-box2d-1.7.1-sources.jar" kind="lib" path="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.7.1/fd23897393900f8f888222795e3229eff600fb3d/gdx-box2d-1.7.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.underwaterapps.overlap2druntime/overlap2d-runtime-libgdx/0.1.0/17835caf1b92a837f621536299b5e75b82724f57/overlap2d-runtime-libgdx-0.1.0-sources.jar" kind="lib" path="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.underwaterapps.overlap2druntime/overlap2d-runtime-libgdx/0.1.0/1dd0d0808d1e44fe10c749d8216c44e5c4c99361/overlap2d-runtime-libgdx-0.1.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.0/761d4182b29162ddd88b5d49152b8d36acb628f4/ashley-1.7.0-sources.jar" kind="lib" path="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.0/a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4/ashley-1.7.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.6.2/f42fa4fc587adf5db89cdde6a8f1aeb5800be936/gdx-freetype-1.6.2-sources.jar" kind="lib" path="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.6.2/62705f896186f9294e37daa0ade876e8692310cf/gdx-freetype-1.6.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/57a1f15112328706c648a430bd19574118e2d8f4/box2dlights-1.4-sources.jar" kind="lib" path="C:/Users/gruta/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar" exported="true"/>
+</classpath>
